@@ -50,9 +50,6 @@ The main interface is built with `tkinter`, providing buttons that open windows 
 - `promiscs(e1)`: Checks if a device on the network is operating in promiscuous mode.
 - `get_macs(ip)`: Sends a packet to detect devices operating in promiscuous mode.
 
-## 📸 Screenshots
-
-> Screenshots will be added soon.
 
 ## 🤝 Acknowledgements
 
